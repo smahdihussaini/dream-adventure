@@ -18,6 +18,8 @@ ul.main-nav {
   
   ul.main-nav li a:hover:not(.active) {background-color: #fa6506;}
   
+  ul.main-nav li a.active {background-color: #fa6506;}
+  
    
   ul.main-nav li.right {float: right;}
   
