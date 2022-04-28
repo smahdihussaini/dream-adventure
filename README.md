@@ -43,6 +43,12 @@ Dream Adventure is a site that explores the New York City famous places and make
 
 - Add Hotels,Resturants, Contact us section
 
+### Testing
+- I tested that this page works in different browsers: Chrome, Firfox, Safari.
+ 
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+ 
+- I confirmed that the navigation, header, about New York City, gallery, Tourism Places are all readable and easy understand.
 
 ### Validator Testing 
 
@@ -50,6 +56,9 @@ Dream Adventure is a site that explores the New York City famous places and make
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accessibility
+     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+      ![Accessibility](https://github.com/smahdihussaini/dream-adventure/blob/main/media/accessibility.png)
 
 ## Deployment
 
