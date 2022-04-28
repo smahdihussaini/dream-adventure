@@ -1,6 +1,6 @@
 # Dream Adventure
 
-Dream Adventure is a site that explore the New York City famouse places and make a nice trip for travel lovers. Dream Adventure is for those people who wants to have a trip or who intrested to the New York City. Dream Adventure will be usefull for the people who wants to get famialer with the New York City and it's famouse places. 
+Dream Adventure is a site that explores the New York City famous places and makes a nice trip for travel lovers. Dream Adventure is for those people who want to have a trip or who are interested in New York City. Dream Adventure will be useful for the people who want to get familiar with New York City and its famous places. 
 
 ![Responsice Mockup](https://github.com/smahdihussaini/dream-adventure/blob/main/media/dream-adventure.png)
 
@@ -9,7 +9,7 @@ Dream Adventure is a site that explore the New York City famouse places and make
 
 - __Navigation Bar__
 
-  - Featured on all three sections, the full responsive navigation bar includes links to the Dream Adventure, Gallery, Tourism places, Hotels, Resturants and Contact Us sesction and is identical in each section to allow for easy navigation.
+  - Featured in all three sections, the full responsive navigation bar includes links to the Dream Adventure, Gallery, Tourism places, Hotels, Restaurants, and Contact Us section and is identical in each section to allow for easy navigation.
   - This section will allow the user to easily navigate from section to section across all devices.
 
 ![Nav Bar](https://github.com/smahdihussaini/dream-adventure/blob/main/media/4.png)
@@ -23,19 +23,19 @@ Dream Adventure is a site that explore the New York City famouse places and make
 
 - __Leran More About New York City Section__
 
-  - in this section user can learn more about new york city and it has a link to travel wiki for more information
+  - In this section, user can learn more about new york city and it has a link to the travel wiki for more information.
 
 ![Learn More About New York City](https://github.com/smahdihussaini/dream-adventure/blob/main/media/5.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the New York City looks like. 
+  - The gallery will provide the user with supporting images to see what New York City looks like. 
 
 ![Gallery](https://github.com/smahdihussaini/dream-adventure/blob/main/media/2.png)
 
 - __Tourism Places__
 
-  - This page will allow the user to get familiar with famous places to visit in Ney York City 
+  - This page will allow the user to get familiar with famous places to visit in New York City.
 
 ![Tourism Places](https://github.com/smahdihussaini/dream-adventure/blob/main/media/3.png)
 
@@ -47,9 +47,9 @@ Dream Adventure is a site that explore the New York City famouse places and make
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
@@ -61,19 +61,17 @@ Dream Adventure is a site that explore the New York City famouse places and make
 The live link can be found here - https://smahdihussaini.github.io/dream-adventure/ 
 
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Credits  
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+- The text for the Learn more about New York City was taken from Wikitravel. [Wikitravel article](https://wikitravel.org/en/New_York_City)
+- The text for the Toursim Places was taken from planetware. [planetware article](https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm)
+
 
 
 ### Media
 
-- The photos used on the landing, gallery, tourism places sectio are from This Open Source site: 
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the banner, gallery, tourism places section are from This Open Source site: [pexels](https://www.pexels.com/)
+- The video used on Learn more about New York City was taken from this Youtube channel: https://youtu.be/MtCMtC50gwY
 
