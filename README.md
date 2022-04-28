@@ -1,6 +1,6 @@
 # Dream Adventure
 
-Dream Adventure is a site that explore the New York City famouse places and make a nice trip for travel lovers. Dream Adventure is for those people who wants to have a trip or who intrested to the New York City. Dream Adventure will be usefull for the people who wants to get famialer with the New York City and it's famouse places. 
+Dream Adventure is a site that explores the New York City famous places and makes a nice trip for travel lovers. Dream Adventure is for those people who want to have a trip or who are interested in New York City. Dream Adventure will be useful for the people who want to get familiar with New York City and its famous places. 
 
 ![Responsice Mockup](https://github.com/smahdihussaini/dream-adventure/blob/main/media/dream-adventure.png)
 
@@ -9,7 +9,7 @@ Dream Adventure is a site that explore the New York City famouse places and make
 
 - __Navigation Bar__
 
-  - Featured on all three sections, the full responsive navigation bar includes links to the Dream Adventure, Gallery, Tourism places, Hotels, Resturants and Contact Us sesction and is identical in each section to allow for easy navigation.
+  - Featured in all three sections, the full responsive navigation bar includes links to the Dream Adventure, Gallery, Tourism places, Hotels, Restaurants, and Contact Us section and is identical in each section to allow for easy navigation.
   - This section will allow the user to easily navigate from section to section across all devices.
 
 ![Nav Bar](https://github.com/smahdihussaini/dream-adventure/blob/main/media/4.png)
@@ -23,19 +23,19 @@ Dream Adventure is a site that explore the New York City famouse places and make
 
 - __Leran More About New York City Section__
 
-  - in this section user can learn more about new york city and it has a link to travel wiki for more information
+  - In this section, user can learn more about new york city and it has a link to the travel wiki for more information.
 
 ![Learn More About New York City](https://github.com/smahdihussaini/dream-adventure/blob/main/media/5.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the New York City looks like. 
+  - The gallery will provide the user with supporting images to see what New York City looks like. 
 
 ![Gallery](https://github.com/smahdihussaini/dream-adventure/blob/main/media/2.png)
 
 - __Tourism Places__
 
-  - This page will allow the user to get familiar with famous places to visit in Ney York City 
+  - This page will allow the user to get familiar with famous places to visit in New York City.
 
 ![Tourism Places](https://github.com/smahdihussaini/dream-adventure/blob/main/media/3.png)
 
