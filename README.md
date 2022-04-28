@@ -47,9 +47,9 @@ Dream Adventure is a site that explore the New York City famouse places and make
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsmahdihussaini.github.io%2Fdream-adventure%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
@@ -61,19 +61,17 @@ Dream Adventure is a site that explore the New York City famouse places and make
 The live link can be found here - https://smahdihussaini.github.io/dream-adventure/ 
 
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Credits  
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+- The text for the Learn more about New York City was taken from Wikitravel. [Wikitravel article](https://wikitravel.org/en/New_York_City)
+- The text for the Toursim Places was taken from planetware. [planetware article](https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm)
+
 
 
 ### Media
 
-- The photos used on the landing, gallery, tourism places sectio are from This Open Source site: 
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the banner, gallery, tourism places section are from This Open Source site: [pexels](https://www.pexels.com/)
+- The video used on Learn more about New York City was taken from this Youtube channel: https://youtu.be/MtCMtC50gwY
 
